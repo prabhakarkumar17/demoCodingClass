@@ -1,0 +1,9 @@
+.listItems{
+    height: 100px;
+    width: 3    80px;
+    font-size: 20px;
+    border: 1px solid navajowhite;
+    border-bottom: 2px solid black;
+    border-radius: 10px;   
+    font-family: 'East Sea Dokdo', cursive;     
+}
